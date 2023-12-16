@@ -30,7 +30,7 @@ export class DistrictsComponent {
         id:3,
         title:"pathanamthitta",
         image:"assets/images/cl11.jpg",
-        discription:"Pathanamthitta, is a municipality situated in the Southern Kerala, India, spread over an area of 23.50 km². It is the administrative capital of Pathanamthitta district. The town has a population of 37,538.",
+        discription:"Pathanamthitta, is a municipality situated in the Southern Kerala, India, spread over an area of 23.50 km². It is the administrative capital of Pathanamthitta district. The town has a population of 37,538.Pathanamthitta district is a treat to eyes with its vast unending stretches of forests, rivers and rural landscapes. Blessed by nature, the district is famous for its scenic beauty, fairs and festivals.",
         wiki:"https://en.wikipedia.org/wiki/Pathanamthitta"
       },
       {
@@ -44,7 +44,7 @@ export class DistrictsComponent {
         id:5,
         title:"kottayam",
         image:"assets/images/kt1.jpg",
-        discription:"Kottayam is a city in the Indian state of Kerala, flanked by the Western Ghats on the east and the Vembanad Lake and paddy fields of Kuttanad on the west. It is the district headquarters of Kottayam district, located in south-west Kerala.",
+        discription:"Kottayam is a city in the Indian state of Kerala, flanked by the Western Ghats on the east and the Vembanad Lake and paddy fields of Kuttanad on the west. It is the district headquarters of Kottayam district, located in south-west Kerala.Kottayam is also called as “Akshara Nagari” .",
         wiki:"https://en.wikipedia.org/wiki/Kottayam"
       },
       {
@@ -58,7 +58,7 @@ export class DistrictsComponent {
         id:7,
         title:"Ernakulam",
         image:"../../../assets/images/ern23.jpg",
-        discription:"Sprawling, residential Ernakulam is known for Marine Drive, a busy waterfront promenade where boats offer backwater cruises. The Kerala Folklore and Hill Palace museums explore local heritage through art and antiquities. Shops along Broadway and on MG Road sell fabrics, crafts, and spices, while modern Lulu Mall also has a cinema and an ice rink. Simple eateries serve Keralan specialties and South Indian seafood. ",
+        discription:"Sprawling, residential Ernakulam is known for Marine Drive, a busy waterfront promenade where boats offer backwater cruises. The Kerala Folklore and Hill Palace museums explore local heritage through art and antiquities. Shops likes crafts, and spices, while modern Lulu Mall also has a cinema and an ice rink. ",
         wiki:"https://en.wikipedia.org/wiki/Ernakulam"
       },
       {
